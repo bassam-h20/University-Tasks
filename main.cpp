@@ -33,5 +33,14 @@ float res = CompoundInterest(originalAmount, interestRate, years);
 
 printf("\n\n\nFinal value of account: %f",res);
 
+/*
+int change1
+
+for(int i=0; i<10; i++)
+{
+  printf("Changes done");
+}
+*/
+
 
 } 
