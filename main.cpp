@@ -42,5 +42,12 @@ for(int i=0; i<10; i++)
 }
 */
 
+/*int change2
+
+for(int i=0; i<3; i++)
+{
+  printf("hello changes 2");
+}
+*/
 
 } 
